@@ -13,21 +13,21 @@ The company would like you to generate a report that breaks down the game's purc
 ## Results
 * Total Number of Players
 
-  ![Total Number of Players](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/total%20number%20of%20players.png?raw=true)
+  ![Total Number of Players](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/total%20number%20of%20players.png?raw=true)
 * Purchasing Analysis (Total)
-![Purchasing Analysis (Total)](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/purchasing%20analysis%20(total).png?raw=true)
+![Purchasing Analysis (Total)](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/purchasing%20analysis%20(total).png?raw=true)
 * Gender Demographics
-![Gender Demographics](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/gender%20demographics.png?raw=true)
+![Gender Demographics](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/gender%20demographics.png?raw=true)
 * Purchasing Analysis (Gender)
-![Purchasing Analysis (Gender)](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/purchasing%20analysis%20(gender).png?raw=true)
+![Purchasing Analysis (Gender)](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/purchasing%20analysis%20(gender).png?raw=true)
 * Age Demographics
-![Age Demographics](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/age%20demographics%20ver%202.png?raw=true)
+![Age Demographics](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/age%20demographics%20ver%202.png?raw=true)
 * Top Spenders
-![Top Spenders](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/top%20spenders.png?raw=true)
+![Top Spenders](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/top%20spenders.png?raw=true)
 * Most Popular Items
-![Most Popular Items](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/most%20popular%20item.png?raw=true)
+![Most Popular Items](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/most%20popular%20item.png?raw=true)
 * Most Profitable Items
-![Most Profitable Items](https://github.com/hanyang2019/Project-4-Heros-of-Pymoli/blob/master/most%20profitable%20items.png?raw=true)
+![Most Profitable Items](https://github.com/hanyang2019/Heros_of_Pymoli/blob/master/Images/most%20profitable%20items.png?raw=true)
 
 ---
 ## Conclusion
